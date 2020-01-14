@@ -1,6 +1,5 @@
-# colab-lstm-temperature-prediction
-Colab project. 
-Convolution + LSTM temperature prediction - many to one problem
+# Colab project - LSTM temperature prediction (in progress)
+Convolution + LSTM - many to one problem.
 
 Data:
 ![alt text](https://raw.githubusercontent.com/KrzysztofV/colab-lstm-temperature-prediction/master/data.png)
